@@ -1,9 +1,12 @@
 # 人大附中制霸生成器
-![IMG_9684](https://user-images.githubusercontent.com/92959551/197305091-e00942ff-bc9a-4af6-8104-ace7b45e2ee5.PNG)
 
 人大附中校园制霸标记生成工具
 
 https://prismatic-youtiao-ada6c2.netlify.app/
+
+
+![IMG_9684](https://user-images.githubusercontent.com/92959551/197305141-678f0254-8610-403f-9a34-c6db917ab692.PNG)
+
 
 
 ## 功能
