@@ -18,6 +18,8 @@ https://prismatic-youtiao-ada6c2.netlify.app/
 ## 参考 
 项目参考自 https://github.com/itorr/china-ex
 
+引用原作者部分参考自 https://github.com/action-hong/china-ex
+
 等级标记参考自清华园制霸
 
 感谢！❤️
