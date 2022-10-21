@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>福建制霸生成器 - 福建城市制霸标记生成工具</title>
+	<title>RDFZ制霸生成器 - 人大附中校园制霸标记生成工具</title>
 	<meta name="description" content="福建城市制霸标记生成工具">
 	<link rel="stylesheet" href="document.css?v=a">
 </head>
@@ -45,28 +45,42 @@ text{
 #地区 path[level="2"]{fill:#A8FFBE;}
 #地区 path[level="1"]{fill:#88AEFF;}
 </style>
-<text x="425" y="119" id="标题">福建制霸</text>
+<text x="425" y="119" id="标题">♥️人大附中制霸🤍</text>
 <g id="地区">
-  <path id="龙岩" d="M271.5,397.02h182.13v180.38h-182.13Z" />
-  <path id="三明" d="M390.54,286.18h202.48v200.53h-202.48Z" />
-  <path id="漳州" d="M321.35,542.12h182.13v180.38h-182.13Z" />
-  <path id="南平" d="M492.28,196.5h202.48v200.53h-202.48Z" />
-  <path id="福州" d="M553.32,346.64h161.78v160.22h-161.78Z" />
-  <path id="宁德" d="M655.06,267.04h141.44v140.07h-141.44Z" />
-  <path id="泉州" d="M434.29,468.57h161.79v160.22h-161.79Z" />
-  <path id="厦门" d="M451.58,592.51h100.74v99.76h-100.74Z" />
-  <path id="莆田" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="篮球场" d="M271.5,397.02h182.13v180.38h-182.13Z" />
+  <path id="排球场" d="M390.54,286.18h202.48v200.53h-202.48Z" />
+  <path id="逸夫楼" d="M321.35,542.12h182.13v180.38h-182.13Z" />
+  <path id="办公楼" d="M492.28,196.5h202.48v200.53h-202.48Z" />
+  <path id="实验楼" d="M553.32,346.64h161.78v160.22h-161.78Z" />
+  <path id="中心花园" d="M655.06,267.04h141.44v140.07h-141.44Z" />
+  <path id="图书馆" d="M434.29,468.57h161.79v160.22h-161.79Z" />
+  <path id="综合楼" d="M451.58,592.51h100.74v99.76h-100.74Z" />
+  <path id="艺术宫/游泳馆" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="体育馆" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="临建楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="大操场" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="高中楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="初中楼+ICC" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+  <path id="宿舍楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+
+
 </g>
 <g id="地名">
-  <text x="311" y="482">龙岩</text>
-  <text x="414" y="368">三明</text>
-  <text x="371" y="631">漳州</text>
-  <text x="566" y="278">南平</text>
-  <text x="487" y="548">泉州</text>
-  <text x="474" y="659">厦门</text>
-  <text x="606" y="530">莆田</text>
-  <text x="606" y="426">福州</text>
-  <text x="698" y="334">宁德</text>
+  <text x="311" y="482">篮球场</text>
+  <text x="414" y="368">排球场</text>
+  <text x="371" y="631">逸夫楼</text>
+  <text x="566" y="278">办公楼</text>
+  <text x="487" y="548">实验楼</text>
+  <text x="474" y="659">中心花园</text>
+  <text x="606" y="530">图书馆</text>
+  <text x="606" y="426">综合楼🍜</text>
+  <text x="698" y="334">艺术宫/游泳馆</text>
+  <text x="698" y="334">体育馆（线粒体）</text>
+  <text x="698" y="334">临建楼</text>
+  <text x="698" y="334">大操场</text>
+  <text x="698" y="334">高中楼</text>
+  <text x="698" y="334">初中楼+ICC</text>
+  <text x="698" y="334">宿舍楼</text>
 </g>
 <text id="分数" x="35" y="883">分数</text>
 <g id="等级">
@@ -115,4 +129,5 @@ text{
 </div>
 <script src="document.js?v=a"></script>
 </body>
+</html>
 </html>
