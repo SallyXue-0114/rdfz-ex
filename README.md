@@ -1,5 +1,6 @@
 # 人大附中制霸生成器
 人大附中校园制霸标记生成工具
+
 https://prismatic-youtiao-ada6c2.netlify.app/
 
 
