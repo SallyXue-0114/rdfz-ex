@@ -115,27 +115,27 @@ text{
 </g>
 <text id="分数" x="35" y="883">分数</text>
 <g id="等级">
-	<path fill="#FF7E7E" d="M983 650h120v50H983Z"/>
-	<path fill="#FFB57E" d="M983 700h120v50H983Z"/>
-	<path fill="#FFE57E" d="M983 750h120v50H983Z"/>
-	<path fill="#A8FFBE" d="M983 800h120v50H983Z"/>
-	<path fill="#88AEFF" d="M983 850h120v50H983Z"/>
-	<path fill="#FFF" d="M983 900h120v50H983Z"/>
-	<path class="边框" d="M983 650h120v300H983Z"/>
-	<text x="1000" y="685">教室/宿舍５</text>
-	<text x="1000" y="735">常去４</text>
-	<text x="1000" y="785">有时去３</text>
-	<text x="1000" y="835">偶尔去２</text>
-	<text x="1000" y="885">路过１</text>
-	<text x="998" y="935">没去过</text>
+	<path fill="#FF7E7E" d="M983 650h130v50H983Z"/>
+	<path fill="#FFB57E" d="M983 700h130v50H983Z"/>
+	<path fill="#FFE57E" d="M983 750h130v50H983Z"/>
+	<path fill="#A8FFBE" d="M983 800h130v50H983Z"/>
+	<path fill="#88AEFF" d="M983 850h130v50H983Z"/>
+	<path fill="#FFF" d="M983 900h130v50H983Z"/>
+	<path class="边框" d="M983 650h130v300H983Z"/>
+	<text x="980" y="685">教室/宿舍</text>
+	<text x="1010" y="735">常去</text>
+	<text x="1000" y="785">有时去</text>
+	<text x="1000" y="835">偶尔去</text>
+	<text x="1010" y="885">路过</text>
+	<text x="1000" y="935">没去过</text>
 </g>
 </svg>
 <div id="设置等级">
     <h2>地区</h2>
-    <a data-level="5">居住</a>
-    <a data-level="4">短居</a>
-    <a data-level="3">游玩</a>
-    <a data-level="2">出差</a>
+    <a data-level="5">教室/宿舍</a>
+    <a data-level="4">常去</a>
+    <a data-level="3">有时去</a>
+    <a data-level="2">偶尔去</a>
     <a data-level="1">路过</a>
     <a data-level="0">没去过</a>
 </div>
