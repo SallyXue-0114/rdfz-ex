@@ -122,10 +122,10 @@ text{
 	<path fill="#88AEFF" d="M983 850h120v50H983Z"/>
 	<path fill="#FFF" d="M983 900h120v50H983Z"/>
 	<path class="边框" d="M983 650h120v300H983Z"/>
-	<text x="1000" y="685">居住５</text>
-	<text x="1000" y="735">短居４</text>
-	<text x="1000" y="785">游玩３</text>
-	<text x="1000" y="835">出差２</text>
+	<text x="1000" y="685">教室/宿舍５</text>
+	<text x="1000" y="735">常去４</text>
+	<text x="1000" y="785">有时去３</text>
+	<text x="1000" y="835">偶尔去２</text>
 	<text x="1000" y="885">路过１</text>
 	<text x="998" y="935">没去过</text>
 </g>
