@@ -5,7 +5,7 @@ https://prismatic-youtiao-ada6c2.netlify.app/
 
 
 ## 功能
-可以在线标记 居住、短居、游玩、出差、路过 标记后可生成图片进行社区分享
+可以在线标记 教室/宿舍、常去、有时去、偶尔去、路过 标记后可生成图片进行社区分享
 
 标记过的信息会记录到本地存储，有什么新进展再次打开网页更新即可
 
@@ -16,7 +16,10 @@ https://prismatic-youtiao-ada6c2.netlify.app/
 请使用自带浏览器进行保存
 
 ## 参考 
-参考自 https://github.com/itorr/china-ex
+项目参考自 https://github.com/itorr/china-ex
+
+等级标记参考自清华园制霸
+
 感谢！❤️
 
 ## 使用了
