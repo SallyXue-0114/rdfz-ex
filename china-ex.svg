@@ -158,6 +158,6 @@ text{
 		<a class="按钮">关闭</a>
 	</div>
 </div>
-<script src="document.js?v=a"></script>
+<script src="脚本.js?v={version}"></script>
 </body>
 </html>
