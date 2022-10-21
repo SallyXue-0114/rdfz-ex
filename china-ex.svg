@@ -45,7 +45,7 @@ text{
 #地区 path[level="2"]{fill:#A8FFBE;}
 #地区 path[level="1"]{fill:#88AEFF;}
 </style>
-<text x="400" y="119" id="标题">♥️人大附中制霸🤍</text>
+<text x="330" y="119" id="标题">♥️人大附中制霸🤍</text>
 <g id="地区">
 
 
@@ -75,26 +75,43 @@ text{
 </g>
 <g id="地名">
 
-  <text x="60" y="160">科研南楼</text>
-  <text x="311" y="482">篮球场</text>
-  <text x="414" y="368">排球场</text>
-  <text x="414" y="368">（前）黑店</text>
-  <text x="414" y="368">篮球场2</text>
+  <text x="60" y="165">科</text>
+  <text x="60" y="205">研</text>
+  <text x="60" y="245">南</text>
+  <text x="60" y="285">楼</text>
 
+  <text x="70" y="390">东</text>
+  <text x="70" y="430">门</text>
+  <text x="145" y="210">篮球场</text>
+  <text x="145" y="310">排球场</text>
+  <text x="140" y="160">🤫</text>
 
-  <text x="371" y="631">逸夫楼</text>
-  <text x="566" y="278">办公楼</text>
-  <text x="487" y="548">实验楼</text>
-  <text x="474" y="659">中心花园</text>
-  <text x="606" y="530">图书馆</text>
-  <text x="606" y="426">综合楼🍜</text>
-  <text x="698" y="334">艺术宫/游泳馆</text>
-  <text x="698" y="334">体育馆（线粒体）</text>
-  <text x="698" y="334">临建楼</text>
-  <text x="698" y="334">大操场</text>
-  <text x="698" y="334">高中楼</text>
-  <text x="698" y="334">初中楼+ICC</text>
-  <text x="698" y="334">宿舍楼</text>
+  <text x="70" y="560">篮</text>
+  <text x="70" y="600">球</text>
+  <text x="70" y="640">场</text>
+  <text x="160" y="600">逸夫楼</text>
+  <text x="288" y="210">办公楼</text>
+  <text x="410" y="210">实验楼</text>
+  <text x="350" y="420">中心花园</text>
+  <text x="310" y="660">图书馆</text>
+  <text x="440" y="660">综合楼🍜</text>
+  <text x="650" y="670">艺术宫</text>
+  <text x="650" y="700">/游泳馆</text>
+  <text x="840" y="680">体育馆</text>
+  <text x="750" y="605">临建楼</text>
+  <text x="750" y="440">大操场</text>
+
+  <text x="560" y="390">高</text>
+  <text x="560" y="430">中</text>
+  <text x="560" y="470">楼</text>
+
+  <text x="720" y="205">初中楼</text>
+  <text x="720" y="235">+ICC</text>
+
+  <text x="990" y="390">宿</text>
+  <text x="990" y="430">舍</text>
+  <text x="990" y="470">楼</text>
+
 </g>
 <text id="分数" x="35" y="883">分数</text>
 <g id="等级">
