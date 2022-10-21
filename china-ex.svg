@@ -45,29 +45,43 @@ text{
 #地区 path[level="2"]{fill:#A8FFBE;}
 #地区 path[level="1"]{fill:#88AEFF;}
 </style>
-<text x="425" y="119" id="标题">♥️人大附中制霸🤍</text>
+<text x="400" y="119" id="标题">♥️人大附中制霸🤍</text>
 <g id="地区">
-  <path id="篮球场" d="M271.5,397.02h182.13v180.38h-182.13Z" />
-  <path id="排球场" d="M390.54,286.18h202.48v200.53h-202.48Z" />
-  <path id="逸夫楼" d="M321.35,542.12h182.13v180.38h-182.13Z" />
-  <path id="办公楼" d="M492.28,196.5h202.48v200.53h-202.48Z" />
-  <path id="实验楼" d="M553.32,346.64h161.78v160.22h-161.78Z" />
-  <path id="中心花园" d="M655.06,267.04h141.44v140.07h-141.44Z" />
-  <path id="图书馆" d="M434.29,468.57h161.79v160.22h-161.79Z" />
-  <path id="综合楼" d="M451.58,592.51h100.74v99.76h-100.74Z" />
-  <path id="艺术宫/游泳馆" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="体育馆" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="临建楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="大操场" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="高中楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="初中楼+ICC" d="M573.67,457.48h121.09v119.92h-121.09Z" />
-  <path id="宿舍楼" d="M573.67,457.48h121.09v119.92h-121.09Z" />
+
+
+  <path id="篮球场" d="M130,170h 130v 100h-130Z" />
+  <path id="排球场" d="M130,270h 130v 60h-130Z" />
+  <path id="黑店👀" d="M130,130h 50v 30h-50Z" />
+
+  <path id="篮球场2" d="M50,500h 80v 220h-80Z" />
+  <path id="科研南楼" d="M50,130h 50v 180h-50Z" />
+  <path id="东门" d="M60,360h 50v 90h-50Z" />
+  <path id="逸夫楼" d="M150,500h 120v 220h-120Z" />
+  <path id="办公楼" d="M280,170h 100v 50h-100Z" />
+  <path id="实验楼" d="M400,160h 110v 70h-110Z" />
+  <path id="中心花园" d="M300,290h 220v 240h-220Z" />
+  <path id="图书馆" d="M300,600h 110v 110h-110Z" />
+  <path id="综合楼" d="M430,610h 120v 90h-120Z" />
+  <path id="高中楼" d="M550,270h 50v 300h-50Z" />
+  <path id="大操场" d="M630,290h 330v 270h-330Z" />
+  <path id="艺术宫/游泳馆" d="M640,640h 130v 70h-130Z" />
+  <path id="体育馆" d="M830,640h 130v 70h-130Z" />
+  <path id="临建楼" d="M630,580h 330v 30h-330Z" />
+  <path id="初中楼+ICC" d="M710 170h 130v 70h-130Z" />
+
+  <path id="宿舍楼" d="M980,270h 50v 320h-50Z" />
 
 
 </g>
 <g id="地名">
+
+  <text x="60" y="160">科研南楼</text>
   <text x="311" y="482">篮球场</text>
   <text x="414" y="368">排球场</text>
+  <text x="414" y="368">（前）黑店</text>
+  <text x="414" y="368">篮球场2</text>
+
+
   <text x="371" y="631">逸夫楼</text>
   <text x="566" y="278">办公楼</text>
   <text x="487" y="548">实验楼</text>
@@ -84,19 +98,19 @@ text{
 </g>
 <text id="分数" x="35" y="883">分数</text>
 <g id="等级">
-	<path fill="#FF7E7E" d="M983 450h120v50H983Z"/>
-	<path fill="#FFB57E" d="M983 500h120v50H983Z"/>
-	<path fill="#FFE57E" d="M983 550h120v50H983Z"/>
-	<path fill="#A8FFBE" d="M983 600h120v50H983Z"/>
-	<path fill="#88AEFF" d="M983 650h120v50H983Z"/>
-	<path fill="#FFF" d="M983 700h120v50H983Z"/>
-	<path class="边框" d="M983 450h120v300H983Z"/>
-	<text x="1000" y="484">居住５</text>
-	<text x="1000" y="535">短居４</text>
-	<text x="1000" y="585">游玩３</text>
-	<text x="1000" y="635">出差２</text>
-	<text x="1000" y="685">路过１</text>
-	<text x="998" y="735">没去过</text>
+	<path fill="#FF7E7E" d="M983 650h120v50H983Z"/>
+	<path fill="#FFB57E" d="M983 700h120v50H983Z"/>
+	<path fill="#FFE57E" d="M983 750h120v50H983Z"/>
+	<path fill="#A8FFBE" d="M983 800h120v50H983Z"/>
+	<path fill="#88AEFF" d="M983 850h120v50H983Z"/>
+	<path fill="#FFF" d="M983 900h120v50H983Z"/>
+	<path class="边框" d="M983 650h120v300H983Z"/>
+	<text x="1000" y="685">居住５</text>
+	<text x="1000" y="735">短居４</text>
+	<text x="1000" y="785">游玩３</text>
+	<text x="1000" y="835">出差２</text>
+	<text x="1000" y="885">路过１</text>
+	<text x="998" y="935">没去过</text>
 </g>
 </svg>
 <div id="设置等级">
@@ -129,5 +143,4 @@ text{
 </div>
 <script src="document.js?v=a"></script>
 </body>
-</html>
 </html>
