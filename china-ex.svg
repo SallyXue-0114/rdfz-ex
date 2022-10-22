@@ -139,34 +139,3 @@ text{
 	<text x="1000" y="935">没去过</text>
 </g>
 </svg>
-<div id="设置等级">
-    <h2>地区</h2>
-    <a data-level="5">教室/宿舍</a>
-    <a data-level="4">常去</a>
-    <a data-level="3">有时去</a>
-    <a data-level="2">偶尔去</a>
-    <a data-level="1">路过</a>
-    <a data-level="0">没去过</a>
-</div>
-<footer>
-  <a href="https://github.com/itorr/china-ex" target="_blank">原项目</a>
-	<a href="https://weibo.com/1197780522/MaCGDCt6N" target="_blank">原作者</a>
-	<a href="https://weibo.com/kopxuanzi" target="_blank">weibo</a>
-	<a href="https://github.com/action-hong/china-ex" target="_blank">GitHub</a>
-	<a id="保存" class="按钮">保存成图片</a>
-</footer>
-<div id="输出图像" style="display: none;">
-	<div>
-		<img>
-	</div>
-	<p>
-		手机端可长按图片
-		<b>“添加到照片”</b>
-	</p>
-	<div>
-		<a class="按钮">关闭</a>
-	</div>
-</div>
-<script src="脚本.js?v={version}"></script>
-</body>
-</html>
