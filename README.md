@@ -34,6 +34,8 @@ https://prismatic-youtiao-ada6c2.netlify.app/
 
 百度上找的人大附中地图（大概是18级小伙伴画的）
 
+![18cfc3fdf2964258aa2b043199d26ee7](https://user-images.githubusercontent.com/92959551/197332254-c5c1cbc4-6a33-46a5-b5d3-8b11ce1bbb4c.jpeg)
+
 netlify进行部署
 
 ## 协议
