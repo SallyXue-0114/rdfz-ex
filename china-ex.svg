@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+
+
+<!DOCTYPE html>
+<html lang="zh-Hans" data-loading>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>RDFZ制霸生成器 - 人大附中校园制霸标记生成工具</title>
+	<meta name="description" content="人大附中校园制霸标记生成工具">
+	<link rel="stylesheet" href="document.css?v=a">
+</head>
+<body>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1134 976">
 <style></style>
 <style>
@@ -58,6 +70,7 @@ text{
   <path id="初中楼+ICC" d="M710 170h 130v 70h-130Z" />
 
   <path id="宿舍楼" d="M980,270h 50v 320h-50Z" />
+  <path id="三师+小操场" d="M1060,270h 70v 320h-70Z" />
 
 
 </g>
@@ -100,8 +113,16 @@ text{
   <text x="990" y="430">舍</text>
   <text x="990" y="470">楼</text>
 
+  <text x="1067" y="420">三师</text>
+
+  <text x="1000" y="150">⬆</text>
+  <text x="1000" y="120">南</text>
+
+
 </g>
 <text id="分数" x="35" y="883">分数</text>
+<text id="说明" x="35" y="950">p.s: 有早培地图的小伙伴欢迎给我update！</text>
+
 <g id="等级">
 	<path fill="#FF7E7E" d="M983 650h130v50H983Z"/>
 	<path fill="#FFB57E" d="M983 700h130v50H983Z"/>
@@ -118,3 +139,34 @@ text{
 	<text x="1000" y="935">没去过</text>
 </g>
 </svg>
+<div id="设置等级">
+    <h2>地区</h2>
+    <a data-level="5">教室/宿舍</a>
+    <a data-level="4">常去</a>
+    <a data-level="3">有时去</a>
+    <a data-level="2">偶尔去</a>
+    <a data-level="1">路过</a>
+    <a data-level="0">没去过</a>
+</div>
+<footer>
+  <a href="https://github.com/itorr/china-ex" target="_blank">原项目</a>
+	<a href="https://weibo.com/1197780522/MaCGDCt6N" target="_blank">原作者</a>
+	<a href="https://weibo.com/kopxuanzi" target="_blank">weibo</a>
+	<a href="https://github.com/action-hong/china-ex" target="_blank">GitHub</a>
+	<a id="保存" class="按钮">保存成图片</a>
+</footer>
+<div id="输出图像" style="display: none;">
+	<div>
+		<img>
+	</div>
+	<p>
+		手机端可长按图片
+		<b>“添加到照片”</b>
+	</p>
+	<div>
+		<a class="按钮">关闭</a>
+	</div>
+</div>
+<script src="脚本.js?v={version}"></script>
+</body>
+</html>
